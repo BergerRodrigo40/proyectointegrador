@@ -1,0 +1,110 @@
+/* Fuente de Google */
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+
+#dat {
+  display: none;
+}
+
+#ob {
+  display: none;
+}
+
+#ex {
+  display: none;
+}
+
+#fo {
+  display: none;
+}
+
+#cua {
+  display: none;
+}
+
+.titulos{
+    color: black;
+    width: 100%;
+    background-color: #b9d9e4;
+    font: 400 14px oswald, sans-serif;
+}
+
+.menu {
+  color: white;
+  width: 99.4%;
+  border: 3px solid #33a4c9;
+  background-color: #b9d9e4;
+}
+
+.textos{  
+color: black;
+    width: 100%;
+    margin-left: 1px;
+    text-align: justify;
+    font: 400 15px oswald, sans-serif;
+    background-color: #b9d9e4;
+}
+
+.boton_perso {
+  background-color: white;
+  font: 400 14px oswald, serif;
+}
+
+.boton_perso:hover {
+  background-color: #33a4c9;
+}
+
+
+.cuerpo{
+margin: 0 auto;
+padding: 5px;
+width: 70%;
+height: 1500 px;
+align: center;
+
+}
+
+header figure img {
+    border-radius: 90px;
+    border: solid #fff;
+    height: 175px;
+    width: 175px;
+    position: relative;
+  }
+
+header {
+    background: #33a4c9;
+    border-bottom: 1px solid #848484;
+    padding: 19px 0;
+    overflow: hidden;
+  }
+  
+header figure {
+    float: left;
+    
+  }
+  
+header figure img {
+    border-radius: 90px;
+    border: solid #fff;
+    height: 175px;
+    width: 175px;
+    position: relative;
+}
+  
+header hgroup {
+    float: center;
+    text-align: center;
+}
+  
+  .titulo {
+    color: #fff;
+    font: 400 40px oswald, sans-serif;
+    text-shadow: 1px 1px 0 rgba(0,0,0,.3);
+  }
+  
+  .subtitulo {
+    color: #fff;
+    font-style: italic;
+    font: 400 20px oswald,sans-serif;
+    text-shadow: 1px 1px 0 rgba(0,0,0,.3);
+  }
